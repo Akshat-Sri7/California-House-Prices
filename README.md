@@ -5,6 +5,7 @@ I use Linear Regression in my initial code which gives me a score of approximate
 However, various other algorithms can give a better result.
 
 **Dependencies**
+
 *numpy  
 *pandas  
 *matplotlib  
